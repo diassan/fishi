@@ -1,1 +1,1 @@
-# Project Sample[![Build Status](https://travis-ci.org/diassan/fishi.svg?branch=master)](https://travis-ci.org/diassan/fishi)
+# Project Sample[![Build Status](https://travis-ci.org/diassan/fishi.svg?branch=master)](https://travis-ci.org/diassan/fishi) [![codecov](https://codecov.io/gh/diassan/fishi/branch/master/graph/badge.svg)](https://codecov.io/gh/diassan/fishi)
