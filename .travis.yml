@@ -2,7 +2,7 @@ language: node_js
 node_js:
   - 10
 install:
-  - nmp i
+  - npm i
   - npm codecov
 after_success:
   - npm run coverage && npx codecov
