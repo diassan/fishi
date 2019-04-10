@@ -5,7 +5,7 @@ after_success:
   - mkdir dist
   - cp -R src/index.html src/js dist
 deploy:
-  provider: pages
+  provider: fishi
   skip_cleanup: true
   github_token: $GITHUB_TOKEN
   keep_history: true
